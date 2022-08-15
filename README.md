@@ -6,3 +6,6 @@
 - Remove items from ToDo List
 - Change list order
 - Mark items off 
+
+## Deployment 
+Visit the app live <a href="https://lekolawole.github.io/to-do-project/">here</a>
